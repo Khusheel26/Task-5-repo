@@ -1,1 +1,1 @@
-This is file that belongs to develop branch.
+This is file that belongs to master branch.
